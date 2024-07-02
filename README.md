@@ -3,6 +3,7 @@
 
 Esta é uma API de exemplo para gerenciar usuários de um sistema de viagens. Ela inclui um CRUD completo para usuários, juntamente com testes automatizados usando Jest e Supertest.
 Os dados são salvos em memória, uma array que armazena os dados, portanto não há conexão com banco de dados.
+O objetivo desta API é para praticar o uso de express.js e praticar o uso de testes unitários em diversos cenários.
 
 ## Pré-requisitos
 
